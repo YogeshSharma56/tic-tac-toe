@@ -1,5 +1,4 @@
 import { useState } from 'react';
-//Initial commit
 
 function Square({ value, onSquareClick }) {
 
